@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
+    "c:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
   },
   "projects": {
-    "C:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
+    "c:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "c:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
-        "projectPath": "C:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectPath": "c:\\microServices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
         "packagesPath": "C:\\Users\\koray\\.nuget\\packages\\",
-        "outputPath": "C:\\microServices\\Play.Common\\src\\Play.Common\\obj\\",
+        "outputPath": "c:\\microServices\\Play.Common\\src\\Play.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\koray\\Desktop\\nugetDeneme\\Packages": {},
+          "C:\\microServices\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

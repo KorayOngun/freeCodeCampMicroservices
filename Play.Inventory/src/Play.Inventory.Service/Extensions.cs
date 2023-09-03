@@ -1,13 +1,13 @@
 using Play.Inventory.Service.Entities;
-using Play.Invertory.Service.Dtos;
+using Play.Inventory.Service.Dtos;
 
 namespace Play.Invertory.Service
 {
     public static class Extensions
     {
-        public static InventroyItemDto asDto(this InventoryItem item)
+        public static InventroyItemDto asDto(this InventoryItem item, string name, string description)
         {
-            return new InventroyItemDto(item.CatalogItemId, item.Quantity, item.AcquiredDate);
+            return new InventroyItemDto(item.CatalogItemId, name, description, item.Quantity, item.AcquiredDate);
         }
     }
 }
