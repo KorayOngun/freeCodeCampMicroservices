@@ -46,3 +46,6 @@ C:\microServices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\refint\P
 C:\microServices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.pdb
 C:\microServices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.genruntimeconfig.cache
 C:\microServices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\ref\Play.Catalog.Service.dll
+C:\microServices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+C:\microServices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\Polly.dll
+C:\microServices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\Polly.Extensions.Http.dll

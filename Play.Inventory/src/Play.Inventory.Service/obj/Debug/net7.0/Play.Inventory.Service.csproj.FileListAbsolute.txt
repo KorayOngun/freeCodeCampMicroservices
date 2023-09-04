@@ -46,3 +46,6 @@ C:\microServices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net7.0\refi
 C:\microServices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net7.0\Play.Inventory.Service.pdb
 C:\microServices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net7.0\Play.Inventory.Service.genruntimeconfig.cache
 C:\microServices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net7.0\ref\Play.Inventory.Service.dll
+C:\microServices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+C:\microServices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net7.0\Polly.dll
+C:\microServices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net7.0\Polly.Extensions.Http.dll
