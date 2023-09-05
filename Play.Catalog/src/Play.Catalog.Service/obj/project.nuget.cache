@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bVFwy6B4bcYuNKqR9dfN4TOkbL69yO9wa/SVWee+VX3Ev0PazAiyPgrSjz29CELUxMof7pGJjY3A35U7SqKNw==",
+  "dgSpecHash": "tusC7nVqEBuXkc50dM4nT42xPkfsYFFf+y7iFAT4paaTZYsEjO98hGAv9qucVD3e0lDfAHncrIV3OrtXyBbolw==",
   "success": true,
-  "projectFilePath": "c:\\microServices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "projectFilePath": "C:\\microServices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\koray\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\koray\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -20,7 +20,7 @@ namespace Play.Catalog.Service.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ItemDto>>> GetAsync()
         {
-            requestCounter++;
+            ++requestCounter;
             Console.WriteLine($"Request {requestCounter}: Starging");
 
             if (requestCounter <= 2)
